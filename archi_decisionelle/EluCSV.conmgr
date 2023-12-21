@@ -21,7 +21,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Code du département"
-          DTS:DTSID="{6CA72485-1054-48A9-BB4F-DDCAE4BB8FDF}"
+          DTS:DTSID="{A228FE2D-41C8-4653-B5F2-8A497A99BC35}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -30,7 +30,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Libellé du département"
-          DTS:DTSID="{E9FCA705-5921-41D5-BF39-A5C973E2AB4F}"
+          DTS:DTSID="{2BD7D2D7-711A-4981-B994-8A7FBE9CF17A}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -39,7 +39,7 @@
           DTS:DataPrecision="18"
           DTS:TextQualified="True"
           DTS:ObjectName="Code de la collectivité à statut particulier"
-          DTS:DTSID="{FAB4EA1A-61CD-4B31-8C37-7C3C1F587D7C}"
+          DTS:DTSID="{BAE9915F-3B5C-47C1-B3B8-EEF7CAD305EF}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -48,7 +48,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Libellé de la collectivité à statut particulier"
-          DTS:DTSID="{F67C133B-2D04-48C1-885B-1D2C04E14E07}"
+          DTS:DTSID="{67114860-72F4-43E0-8559-361FDBD6BCD8}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -57,7 +57,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Code de la commune"
-          DTS:DTSID="{AB885FB6-6EF2-4B7D-9289-D0EB31E9F91C}"
+          DTS:DTSID="{D80FAFF7-06DA-401D-9089-979F5DDC55EF}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -66,7 +66,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Libellé de la commune"
-          DTS:DTSID="{DE7FC2E2-5CEB-4883-A029-425B5FCB0B34}"
+          DTS:DTSID="{A849B694-50C9-4C6D-82CC-1967033663C1}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -75,7 +75,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Nom de l'élu"
-          DTS:DTSID="{3B1C2CE3-1A1B-4E29-A853-C248A4E985F5}"
+          DTS:DTSID="{7D94A133-0C38-4D7A-84D0-A46F65422205}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -84,16 +84,16 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Prénom de l'élu"
-          DTS:DTSID="{BA8352CF-692E-4A26-BAAF-0F50142DD8F3}"
+          DTS:DTSID="{391ADCB3-B7E4-4946-886A-7F365D46A4DC}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
           DTS:ColumnDelimiter="_x002C_"
-          DTS:MaximumWidth="50"
+          DTS:MaximumWidth="1"
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Code sexe"
-          DTS:DTSID="{9774F472-89DE-4FAC-9FA6-67D56673E4A7}"
+          DTS:DTSID="{20F4B591-D001-45A9-9E72-8782049D0937}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -102,7 +102,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Date de naissance"
-          DTS:DTSID="{3ACEADC4-2962-46AF-B433-DB0F52D08680}"
+          DTS:DTSID="{30F847A4-717B-48E2-BA78-02C728B1A03C}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -111,7 +111,7 @@
           DTS:DataPrecision="18"
           DTS:TextQualified="True"
           DTS:ObjectName="Code de la catégorie socio-professionnelle"
-          DTS:DTSID="{65C10814-3E1F-43F1-B9B3-4B3CA6D74A78}"
+          DTS:DTSID="{BD5343B6-3504-4168-9160-9C577173F823}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -120,7 +120,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Libellé de la catégorie socio-professionnelle"
-          DTS:DTSID="{155361F9-680F-474F-B0B2-6CC5D36A6D66}"
+          DTS:DTSID="{C2768865-2BD9-451B-834F-51FA23FF9E30}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -129,7 +129,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Date de début du mandat"
-          DTS:DTSID="{C6F7FA79-98E5-4B77-9885-52F161BB436D}"
+          DTS:DTSID="{1BBB7282-8AA4-403A-AE56-A234EE7BA59A}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -138,7 +138,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Libellé de la fonction"
-          DTS:DTSID="{CEB49480-0FC3-497B-8ACC-6212DF711921}"
+          DTS:DTSID="{A255FED3-507F-47A4-9C30-E76002B42BFE}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -147,7 +147,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Date de début de la fonction"
-          DTS:DTSID="{35B4A807-4D05-4E33-8C39-36C05536E7B3}"
+          DTS:DTSID="{5141703C-EE81-496D-8BA7-604F90C5EC47}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -156,7 +156,7 @@
           DTS:DataType="130"
           DTS:TextQualified="True"
           DTS:ObjectName="Code nationalité"
-          DTS:DTSID="{8AFE0D98-C694-4C15-A0EB-2A640F25AB8F}"
+          DTS:DTSID="{3BBB43F9-AC4F-4E0F-B024-C06375FF1BF0}"
           DTS:CreationName="" />
       </DTS:FlatFileColumns>
     </DTS:ConnectionManager>

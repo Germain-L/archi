@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SQLServer"
+  DTS:DTSID="{7A15CBA2-6C30-489F-BBDE-C48CB5FC6EE7}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=;User ID=;Initial Catalog=archi;Provider=MSOLEDBSQL.1;Persist Security Info=False;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-archi_decisionelle-{7A15CBA2-6C30-489F-BBDE-C48CB5FC6EE7}Data Connection;Initial File Name=;Server SPN=;Authentication=;Access Token=;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
